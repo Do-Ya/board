@@ -8,6 +8,7 @@ import org.springframework.stereotype.Repository;
 
 import java.util.List;
 
+//원격해서 수정2
 @Repository
 @RequiredArgsConstructor
 public class BoardDAO {
